@@ -1,5 +1,5 @@
-import 'package:flutter/material.dart';
 import 'package:spotify/Presentation/chooseMode/bloc/theme_cubit.dart';
+import 'package:flutter/material.dart';
 import 'package:spotify/Presentation/splash/pages/splash.dart';
 import 'package:spotify/core/config/theme/app_theme.dart';
 import 'package:hydrated_bloc/hydrated_bloc.dart';
