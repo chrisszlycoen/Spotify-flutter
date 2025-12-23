@@ -6,3 +6,4 @@ class AppImages {
   static const String signInOrUpImage = '${basePath}billie1.png';
 
 }
+
