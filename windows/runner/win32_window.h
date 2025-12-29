@@ -13,8 +13,8 @@
 class Win32Window {
  public:
   struct Point {
-    unsigned int x;
     unsigned int y;
+    unsigned int x;
     Point(unsigned int x, unsigned int y) : x(x), y(y) {}
   };
 
