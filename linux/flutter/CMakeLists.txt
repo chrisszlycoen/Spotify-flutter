@@ -49,6 +49,7 @@ list(APPEND FLUTTER_LIBRARY_HEADERS
   "fl_method_response.h"
   "fl_plugin_registrar.h"
   "fl_plugin_registry.h"
+
   "fl_standard_message_codec.h"
   "fl_standard_method_codec.h"
   "fl_string_codec.h"
