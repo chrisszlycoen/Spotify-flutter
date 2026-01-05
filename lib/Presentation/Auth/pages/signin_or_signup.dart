@@ -51,7 +51,6 @@ class SignInOrSignUp extends StatelessWidget {
                     fontWeight: FontWeight.bold,
                   ),
                   
-                  
                 ),
                 SizedBox(height: 21,),
                 Padding(
