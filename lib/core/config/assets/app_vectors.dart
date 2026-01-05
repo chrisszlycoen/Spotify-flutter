@@ -8,3 +8,4 @@ class AppVectors {
   static const String upcorner = '${basePath}upcorner$format';
   static const String bottomcorner = '${basePath}bottomcorner$format';
 }
+
